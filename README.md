@@ -21,7 +21,7 @@
 I'm an interdisciplinary scientist with over seven years exploring the nexus of clinical trial design, AI-optimized lab workflows, and global regulatory strategies. I lead teams creating botanical drugs and novel nutritional ingredients.
 
 - 🍄 **Biotechnology:** Scaling precision fermentation for bioactive compounds (e.g., *Antrodia cinnamomea*; *Hericium erinaceus*).
-- 🤖 **AI & Lab Automation:** Building LLM-based tools for literature synthesis and applying Python optimization algorithms to scale fermentation yields by 200%.
+- 🤖 **AI & Lab Automation:** Building LLM-based tools for literature synthesis and applying Python optimization algorithms to scale fermentation yields by 209%.
 - ⚖️ **Regulatory Science:** Navigating botanical drugs through FDA Phase II IND and securing NDI 1286 status. Cross-border strategy stretching across the US, Taiwan, and Japan.
 
 ### 🛠️ Languages & Tools
