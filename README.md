@@ -13,6 +13,10 @@
     <a href="https://linkedin.com/in/tjkevin">💼 LinkedIn</a> •
     <a href="https://scholar.google.com/citations?user=8Y_Rjk4AAAAJ&hl=zh-TW">🎓 Google Scholar</a>
   </p>
+
+  <p>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=kevintsli.kevintsli&unique=true" alt="Unique Visitors" />
+  </p>
 </div>
 
 ---
